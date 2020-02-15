@@ -1,6 +1,6 @@
 # git-github
 learning how to use git.
-if i felow this then its ok.
+if i fellow this then its ok.
 
 
 
